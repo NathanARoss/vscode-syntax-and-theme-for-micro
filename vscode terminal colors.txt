@@ -1,0 +1,21 @@
+light blue (identifiers): #9dddfe
+green (comments): #6a9a54
+light gray (brackets): #d5d5d5
+light green (numbers): #b6cfaa
+light yellow (functions): #ddddac
+purple (if,else,for,while,switch): #c787c2
+orange (strings): #d09279
+black (background): #181818
+dark gray (indentation lines): #3d3d3d
+light gray (active line number): #c7c7c7
+dark gray (inactive line number): #868686
+faded blue (unused identifiers): #729db4
+dark blue (const,let,function,new,undefined,null): #549dd7
+cyan (module names): #4bcbb1
+light red (error): #EC836E
+slight blue (select color): #024974
+dark gray (current line highlight): #242424
+
+Use the color codes from the following json array to make the respective colors look like VS Code colors.  I took the liberty of replacing bright red with orange since I couldn't think of a better way of representing orange.
+
+["#181818", "#EC836E", "#6a9a54", null, "#549dd7", "#c787c2", "#4bcbb1", "#868686", "#242424", "#d09279", null, "#ddddac", "#9dddfe", null, null, "#d5d5d5"]
