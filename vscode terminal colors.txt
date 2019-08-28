@@ -18,4 +18,8 @@ dark gray (current line highlight): #242424
 
 Use the color codes from the following json array to make the respective colors look like VS Code colors.  I took the liberty of replacing bright red with orange since I couldn't think of a better way of representing orange.
 
-["#181818", "#EC836E", "#6a9a54", null, "#549dd7", "#c787c2", "#4bcbb1", "#868686", "#242424", "#d09279", null, "#ddddac", "#9dddfe", null, null, "#d5d5d5"]
+
+Black, Red, Green, Yellow, Blue, Purple, Cyan, White
+
+["#181818", "#EC836E", "#6a9a54", null, "#549dd7", "#c787c2", "#4bcbb1", "#868686",
+"#242424", "#d09279", "#b6cfaa", "#ddddac", "#9dddfe", null, null, "#d5d5d5"]
